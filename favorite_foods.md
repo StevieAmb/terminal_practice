@@ -4,3 +4,5 @@ var favoriteFoods = {
   alwaysSay: "More, please!",
   numHelpings: 12,
 }
+
+/*This is an object value of my favorite foods*/
